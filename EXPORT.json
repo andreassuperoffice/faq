@@ -1,0 +1,34 @@
+{
+  "exported_at": "2026-11-11T12:30:05Z",
+  "trial_run": true,
+  "languages": {
+    "en": {
+      "in_sitemap": 196,
+      "written": 5,
+      "unchanged": 0,
+      "removed": [],
+      "failed": [],
+      "thin": [],
+      "note": ""
+    },
+    "no": {
+      "in_sitemap": 71,
+      "written": 5,
+      "unchanged": 0,
+      "removed": [],
+      "failed": [],
+      "thin": [],
+      "note": ""
+    },
+    "sv": {
+      "in_sitemap": 62,
+      "written": 5,
+      "unchanged": 0,
+      "removed": [],
+      "failed": [],
+      "thin": [],
+      "note": ""
+    }
+  },
+  "files_in_index": 15
+}
