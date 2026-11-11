@@ -1,11 +1,11 @@
 {
-  "exported_at": "2026-11-11T12:30:05Z",
-  "trial_run": true,
+  "exported_at": "2026-11-11T12:33:57Z",
+  "trial_run": false,
   "languages": {
     "en": {
       "in_sitemap": 196,
-      "written": 5,
-      "unchanged": 0,
+      "written": 191,
+      "unchanged": 5,
       "removed": [],
       "failed": [],
       "thin": [],
@@ -13,8 +13,8 @@
     },
     "no": {
       "in_sitemap": 71,
-      "written": 5,
-      "unchanged": 0,
+      "written": 66,
+      "unchanged": 5,
       "removed": [],
       "failed": [],
       "thin": [],
@@ -22,13 +22,13 @@
     },
     "sv": {
       "in_sitemap": 62,
-      "written": 5,
-      "unchanged": 0,
+      "written": 57,
+      "unchanged": 5,
       "removed": [],
       "failed": [],
       "thin": [],
       "note": ""
     }
   },
-  "files_in_index": 15
+  "files_in_index": 329
 }
